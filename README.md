@@ -1,14 +1,14 @@
 
 ![GMIT Logo](http://password.gmit.ie/images/logo.png "GMIT Logos")
 # Programming for Data Analysis
----
+
 ## Higher Diploma in Data Analytics, GMIT
 
 Repository for the assignment for the Programming for Data Analysis module @ GMIT - 2020
 
 Author: Maciej Izydorek Email: G00387873@gmit.ie Github: [mizydorek](https://github.com/mizydorek)
 
----
+#
 
 #### Assignment Overview
 
@@ -51,15 +51,22 @@ or alternatively
 
 #### Instructions for downloading repository
 
-At github repository [Programming for Data Analysis](https://github.com/mizydorek/Programming-for-Data-Analysis-Assignment) click on the green `Code` button to copy the link. Open command line(windows) or terminal(osx/linux), navigate to the selected directory and enter the command `git clone` folowed copied the URL. The whole repository will be cloned down onto current working directory. alternatively copy the whole command below:
+At github repository [Programming for Data Analysis](https://github.com/mizydorek/Programming-for-Data-Analysis-Assignment) click on the green `Code` button to copy the link. Open command line(windows) or terminal(osx/linux), navigate to the selected directory and enter the command `git clone` folowed copied the URL. Alternatively copy the whole command below:
 
 ```
 git clone https://github.com/mizydorek/Programming-for-Data-Analysis-Assignment
 ```
 
+The whole repository will be cloned down onto current working directory.
+
 #### How to run the jupyter notebook
 
+From there run `jupyter notebook` command on the command line/terminal. This will open Jupyter in the browser. The notebook containing solution that is called `numpy.random.ipynb` can be opened by clicking on it.
+Once opened, select `Restart and Run All` from Kernel sub-menu to run the jupyter notebook.
 
+#### Viewing the Notebook 
+
+The notebook can be viewed online either on th [github](https://github.com/mizydorek/Programming-for-Data-Analysis-Assignment/blob/main/numpy.random.ipynb) or by accessing through Jupyter Notebooks viewer  [nbviewer](https://nbviewer.jupyter.org/github/mizydorek/Programming-for-Data-Analysis-Assignment/blob/main/numpy.random.ipynb).
 
 #### References 
 
