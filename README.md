@@ -2,8 +2,6 @@
 ![GMIT Logo](http://password.gmit.ie/images/logo.png "GMIT Logos")
 # Programming for Data Analysis
 
-## Higher Diploma in Data Analytics, GMIT
-
 Repository for the assignment for the Programming for Data Analysis module @ GMIT - 2020
 
 Author: Maciej Izydorek Email: G00387873@gmit.ie Github: [mizydorek](https://github.com/mizydorek)
@@ -66,22 +64,22 @@ Once opened, select `Restart and Run All` from Kernel sub-menu to run the jupyte
 
 #### Viewing the Notebook 
 
-The notebook can be viewed online either on th [github](https://github.com/mizydorek/Programming-for-Data-Analysis-Assignment/blob/main/numpy.random.ipynb) or by accessing through Jupyter Notebooks viewer  [nbviewer](https://nbviewer.jupyter.org/github/mizydorek/Programming-for-Data-Analysis-Assignment/blob/main/numpy.random.ipynb).
+The notebook can be viewed online either on the [github](https://github.com/mizydorek/Programming-for-Data-Analysis-Assignment/blob/main/numpy.random.ipynb) or by accessing through Jupyter Notebooks viewer  [nbviewer](https://nbviewer.jupyter.org/github/mizydorek/Programming-for-Data-Analysis-Assignment/blob/main/numpy.random.ipynb).
 
 #### References 
 
-[1] [Python](https://www.python.org/downloads/) 
+[1] Python (https://www.python.org/downloads/) 
 
-[2] [Project Jupyter. Jupyter notebook.](http://jupyter.org/)
+[2] Project Jupyter. Jupyter notebook. (http://jupyter.org/)
 
-[3] [Software Freedom Conservancy. Git.](https://git-scm.com/)
+[3] Software Freedom Conservancy. Git. (https://git-scm.com/)
 
-[4] [Anaconda. Individual Edition.](https://www.anaconda.com/products/individual)
+[4] Anaconda. Individual Edition. (https://www.anaconda.com/products/individual)
 
-[5] [NumPy developers. Numpy.](http://www.numpy.org/)
+[5] NumPy developers. Numpy. (http://www.numpy.org/)
 
-[6] [Matplotlib](https://matplotlib.org/)
+[6] Matplotlib (https://matplotlib.org/)
 
-[7] [Seaborn](https://seaborn.pydata.org/)
+[7] Seaborn (https://seaborn.pydata.org/)
 
-[8] [GMIT. Quality assurance framework.](https://www.gmit.ie/general/quality-assurance-framework)
+[8] GMIT. Quality assurance framework. (https://www.gmit.ie/general/quality-assurance-framework)
